@@ -15,12 +15,6 @@ Informatics @ Fontys Venlo · Software dev with a legal/privacy edge · Availabl
 
 ## Visuals
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RickPoels&show_icons=true&theme=transparent&rank_icon=github" height="140" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RickPoels&theme=transparent" height="140" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickPoels&layout=compact&theme=transparent" height="140" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/RickPoels/RickPoels/output/github-contribution-grid-snake.svg" alt="Snake animation light" />
   <img src="https://raw.githubusercontent.com/RickPoels/RickPoels/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
 </div>
