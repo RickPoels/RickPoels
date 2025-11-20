@@ -7,11 +7,11 @@
 # Rick Poels 🐍
 Informatics @ Fontys Venlo · Software dev with a legal/privacy edge · Available (NL/DE)
 
-[CV](https://unique-kilometer-1cd.notion.site/Rick-Poels-Informatica-Student-Softwareontwikkelaar-20c67c6aa5098042bb28de0dd89bb605) · [LinkedIn](https://www.linkedin.com/in/rick-poels/) · Venlo
+[CV 📄](https://unique-kilometer-1cd.notion.site/Rick-Poels-Informatica-Student-Softwareontwikkelaar-20c67c6aa5098042bb28de0dd89bb605) · [LinkedIn 🔗](https://www.linkedin.com/in/rick-poels/) · 📍 Venlo
 
 </div>
 
-> Efficient, ethical software that respects privacy and law — with a bit of bite.
+> Efficient, ethical software that respects privacy and law — with a bit of bite. 🧭
 
 ## Visuals
 <div align="center">
@@ -20,34 +20,34 @@ Informatics @ Fontys Venlo · Software dev with a legal/privacy edge · Availabl
 </div>
 
 ## Now
-- Building user-centric apps with Java, Python, PHP, SQL/PL-SQL.
-- Exploring local/open-source LLM stacks that keep data private.
-- Open to projects in process optimization, AI safety, and compliance.
+- 🛠️ Building user-centric apps with Java, Python, PHP, SQL/PL-SQL.
+- 🔒 Exploring local/open-source LLM stacks that keep data private.
+- 🤝 Open to projects in process optimization, AI safety, and compliance.
 
 ## Featured writing
-- Data Security, Sovereignty, and Strategy — local AI stacks for privacy.
-- Political Landscape & Stock Market — policy impact on volatility.
-- ASML IT User Support insights — product owner interview recap.
-- Dutch Disease — lessons from NL and Norway on resource management.
-- Prompting better — practical tips to improve AI prompts.
+- 🔐 Data Security, Sovereignty, and Strategy — local AI stacks for privacy.
+- 📊 Political Landscape & Stock Market — policy impact on volatility.
+- 🛰️ ASML IT User Support insights — product owner interview recap.
+- 🌍 Dutch Disease — lessons from NL and Norway on resource management.
+- 🧠 Prompting better — practical tips to improve AI prompts.
 
 ## Projects
-- **AI WebUI — Local AI Interface**: OpenWebUI + Docker + Ollama endpoints for local LLaMA; FastAPI backend; Node/Vite frontend. Privacy: zero cloud.
-- **Smart Weather Application**: Python REST API + React + Chart.js; real-time weather via OpenWeatherMap.
+- 🧪 **AI WebUI — Local AI Interface**: OpenWebUI + Docker + Ollama endpoints for local LLaMA; FastAPI backend; Node/Vite frontend. Privacy: zero cloud.
+- ☁️ **Smart Weather Application**: Python REST API + React + Chart.js; real-time weather via OpenWeatherMap.
 
 ## Experience
-- **Process Optimization (Freelance)** · CIRCYOULAR® · 2025–now · Hybrid (DE/NL) — Automating workflows with modern tooling.
-- **Team Lead / Process Medewerker** · Jumbo Supermarkten · 2019–2025 · Venlo — Led 10–25 per shift; improved process efficiency.
-- **HR Services** · Stage in Spanje · 2023–2024 · Valencia — Built a mobile CRM app alongside HR ops.
-- **Incasso Medewerker** · Hafkamp Groenewegen · 2022–2023 · Venlo.
+- 🚀 **Process Optimization (Freelance)** · CIRCYOULAR® · 2025–now · Hybrid (DE/NL) — Automating workflows with modern tooling.
+- 🟡 **Team Lead / Process Medewerker** · Jumbo Supermarkten · 2019–2025 · Venlo — Led 10–25 per shift; improved process efficiency.
+- 📱 **HR Services** · Stage in Spanje · 2023–2024 · Valencia — Built a mobile CRM app alongside HR ops.
+- ⚖️ **Incasso Medewerker** · Hafkamp Groenewegen · 2022–2023 · Venlo.
 
 ## Education
-- B.Sc. Informatics · Fontys Venlo · 2024–2027.
-- Social Security Law · Gilde Opleidingen · 2023–2024 (Grade: 8).
+- 🎓 B.Sc. Informatics · Fontys Venlo · 2024–2027.
+- 📚 Social Security Law · Gilde Opleidingen · 2023–2024 (Grade: 8).
 
 ## Certifications
-- Propedeutic Phase Informatics · Fontys · Jun 2025.
-- Agile Scrum Master · Simplilearn · Feb 2025 · Ref 45924187EKJ.
+- 🏅 Propedeutic Phase Informatics · Fontys · Jun 2025.
+- 🌀 Agile Scrum Master · Simplilearn · Feb 2025 · Ref 45924187EKJ.
 
 ## Toolbox
 <div align="center">
@@ -64,7 +64,11 @@ Informatics @ Fontys Venlo · Software dev with a legal/privacy edge · Availabl
 </div>
 
 ## Languages
-- Dutch (native), English (full professional), German (professional).
+- 🇳🇱 Dutch (native), 🇬🇧 English (full professional), 🇩🇪 German (professional).
 
 ## Contact
-- Best via LinkedIn DMs or the CV link above.
+- 💬 Best via LinkedIn DMs or the CV link above.
+
+<div align="center">
+  <img src=".github/svg/Bottom.svg" alt="Footer wave">
+</div>
