@@ -13,6 +13,13 @@ Informatics @ Fontys Venlo · Software dev with a legal/privacy edge · Availabl
 
 > Efficient, ethical software that respects privacy and law — with a bit of bite. 🧭
 
+# Hi ??
+
+<!-- WEATHER-SECTION:START -->
+Currently, the weather is: _loading..._
+<!-- WEATHER-SECTION:END -->
+
+
 ## Visuals
 <div align="center">
   <img src="https://raw.githubusercontent.com/RickPoels/RickPoels/output/github-contribution-grid-snake.svg" alt="Snake animation light" />
