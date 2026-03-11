@@ -11,7 +11,7 @@ Informatics @ Fontys Venlo · Software dev with a legal/privacy edge · Availabl
 
 </div>
 
-> Efficient, ethical software that respects privacy and law — with a bit of bite. 🧭
+> Efficient, ethical software that respects privacy and lawwith a bit of bite. 🧭
 
 # Hi ??
 
@@ -32,20 +32,20 @@ Currently, the weather is: _loading..._
 - 🤝 Open to projects in process optimization, AI safety, and compliance.
 
 ## Featured writing
-- 🔐 Data Security, Sovereignty, and Strategy — local AI stacks for privacy.
-- 📊 Political Landscape & Stock Market — policy impact on volatility.
-- 🛰️ ASML IT User Support insights — product owner interview recap.
-- 🌍 Dutch Disease — lessons from NL and Norway on resource management.
-- 🧠 Prompting better — practical tips to improve AI prompts.
+- 🔐 Data Security, Sovereignty, and Strategylocal AI stacks for privacy.
+- 📊 Political Landscape & Stock Marketpolicy impact on volatility.
+- 🛰️ ASML IT User Support insightsproduct owner interview recap.
+- 🌍 Dutch Diseaselessons from NL and Norway on resource management.
+- 🧠 Prompting betterpractical tips to improve AI prompts.
 
 ## Projects
-- 🧪 **AI WebUI — Local AI Interface**: OpenWebUI + Docker + Ollama endpoints for local LLaMA; FastAPI backend; Node/Vite frontend. Privacy: zero cloud.
+- 🧪 **AI WebUILocal AI Interface**: OpenWebUI + Docker + Ollama endpoints for local LLaMA; FastAPI backend; Node/Vite frontend. Privacy: zero cloud.
 - ☁️ **Smart Weather Application**: Python REST API + React + Chart.js; real-time weather via OpenWeatherMap.
 
 ## Experience
-- 🚀 **Process Optimization (Freelance)** · CIRCYOULAR® · 2025–now · Hybrid (DE/NL) — Automating workflows with modern tooling.
-- 🟡 **Team Lead / Process Medewerker** · Jumbo Supermarkten · 2019–2025 · Venlo — Led 10–25 per shift; improved process efficiency.
-- 📱 **HR Services** · Stage in Spanje · 2023–2024 · Valencia — Built a mobile CRM app alongside HR ops.
+- 🚀 **Process Optimization (Freelance)** · CIRCYOULAR® · 2025–now · Hybrid (DE/NL)Automating workflows with modern tooling.
+- 🟡 **Team Lead / Process Medewerker** · Jumbo Supermarkten · 2019–2025 · VenloLed 10–25 per shift; improved process efficiency.
+- 📱 **HR Services** · Stage in Spanje · 2023–2024 · ValenciaBuilt a mobile CRM app alongside HR ops.
 - ⚖️ **Incasso Medewerker** · Hafkamp Groenewegen · 2022–2023 · Venlo.
 
 ## Education
