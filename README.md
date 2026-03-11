@@ -11,9 +11,9 @@ Informatics @ Fontys Venlo · Software dev with a legal/privacy edge · Availabl
 
 </div>
 
-> Efficient, ethical software that respects privacy and lawwith a bit of bite. 🧭
+> Efficient, ethical software that respects privacy and law with a bit of bite. 🧭
 
-# Hi ??
+# Hi 👋
 
 <!-- WEATHER-SECTION:START -->
 Currently, the weather is: _loading..._
@@ -27,51 +27,59 @@ Currently, the weather is: _loading..._
 </div>
 
 ## Now
-- 🛠️ Building user-centric apps with Java, Python, PHP, SQL/PL-SQL.
-- 🔒 Exploring local/open-source LLM stacks that keep data private.
-- 🤝 Open to projects in process optimization, AI safety, and compliance.
+- 🛠️ Building user-centric apps with Java, Kotlin, TypeScript, Node.js, and Python.
+- 🔒 Exploring local/open-source LLM stacks and security platforms that keep data private.
+- 🤝 Open to projects in full-stack development, process optimization, and AI safety.
 
 ## Featured writing
-- 🔐 Data Security, Sovereignty, and Strategylocal AI stacks for privacy.
-- 📊 Political Landscape & Stock Marketpolicy impact on volatility.
-- 🛰️ ASML IT User Support insightsproduct owner interview recap.
-- 🌍 Dutch Diseaselessons from NL and Norway on resource management.
-- 🧠 Prompting betterpractical tips to improve AI prompts.
+- 🔐 Data Security, Sovereignty, and Strategy: local AI stacks for privacy.
+- 📊 Political Landscape & Stock Market: policy impact on volatility.
+- 🛰️ ASML IT User Support insights: product owner interview recap.
+- 🌍 Dutch Disease: lessons from NL and Norway on resource management.
+- 🧠 Prompting better: practical tips to improve AI prompts.
 
 ## Projects
-- 🧪 **AI WebUILocal AI Interface**: OpenWebUI + Docker + Ollama endpoints for local LLaMA; FastAPI backend; Node/Vite frontend. Privacy: zero cloud.
-- ☁️ **Smart Weather Application**: Python REST API + React + Chart.js; real-time weather via OpenWeatherMap.
+- 🛡️ **SecArena**: Hands-on Cyber Security Lab Platform. Built an orchestrator API (Node.js/Express) to spin up isolated CTF-style Docker challenges in Proxmox.
+- 📓 **Cloud Notes**: Cloud-Based Note-Taking App. Created a full-stack note app with vanilla HTML/CSS/JS frontend, Node.js REST API with JWT, and PostgreSQL storage.
+- 🐟 **VisualFish**: Android social fishing app with Kotlin/Android Jetpack and a TypeScript/Loopback 4 backend. Integrated LLM-based fish species recognition.
+- 🧪 **AI WebUI**: Fully local AI Interface for Open-Source Models (e.g. LLaMA 3.2) using Ollama, Python FastAPI, and Vite within Docker. Zero cloud dependency.
+- ✈️ **Airline Information System**: Flight booking platform with a modular Java backend, Svelte frontend, and PostgreSQL database.
+- ☁️ **Smart Weather Dashboard**: Python RESTful API + React + Chart.js dashboard displaying real-time weather via OpenWeatherMap.
 
 ## Experience
-- 🚀 **Process Optimization (Freelance)** · CIRCYOULAR® · 2025–now · Hybrid (DE/NL)Automating workflows with modern tooling.
-- 🟡 **Team Lead / Process Medewerker** · Jumbo Supermarkten · 2019–2025 · VenloLed 10–25 per shift; improved process efficiency.
-- 📱 **HR Services** · Stage in Spanje · 2023–2024 · ValenciaBuilt a mobile CRM app alongside HR ops.
-- ⚖️ **Incasso Medewerker** · Hafkamp Groenewegen · 2022–2023 · Venlo.
+- 🚀 **Process Optimizer (Freelance)** · CIRCYOULAR® · Aug 2025–Present · Hybrid (DE/NL) — Optimizing business processes with modern digital solutions.
+- 🟡 **Team Leader** · Jumbo Supermarkten · 2022–Jul 2025 · Venlo — Led 10–25 people per shift; ensured process efficiency and team management.
+- 🟡 **Process Worker** · Jumbo Supermarkten · Okt 2019–2022 · Venlo — Handled day-to-day operations and customer contact.
+- 📱 **HR Developer** · Stage in Spanje · 2023–2024 · Valencia — Managed HR administration and developed a mobile CRM app in Java/Android Studio.
+- ⚖️ **Collections Employee** · Hafkamp Groenewegen gerechtsdeurwaarders · 2022–2023 · Venlo — Assisted bailiff with debt collection processes.
 
 ## Education
-- 🎓 B.Sc. Informatics · Fontys Venlo · 2024–2027.
-- 📚 Social Security Law · Gilde Opleidingen · 2023–2024 (Grade: 8).
+- 🎓 **B.Sc. Informatics** · Fontys Venlo University of Applied Sciences · 2024–2027.
+- 📚 **MBO-4 Human Resource Management** · Gilde Opleidingen · Sep 2023–Aug 2024 (Grade: 9).
+- ⚖️ **MBO-4 Juridisch Administratief Medewerker** · Gilde Opleidingen · Sep 2022–Aug 2024 (Grade: 8).
 
-## Certifications
-- 🏅 Propedeutic Phase Informatics · Fontys · Jun 2025.
-- 🌀 Agile Scrum Master · Simplilearn · Feb 2025 · Ref 45924187EKJ.
-
-## Toolbox
+## Skills & Toolbox
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/Automation-0EA5E9?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/CyberSec-0EA5E9?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Security" />
 </div>
 
 ## Languages
-- 🇳🇱 Dutch (native), 🇬🇧 English (full professional), 🇩🇪 German (professional).
+- 🇳🇱 **Dutch**: Native / Bilingual
+- 🇬🇧 **English**: Full Professional Proficiency
+- 🇩🇪 **German**: Professional Working Proficiency
+- 🇪🇸 **Spanish**: Limited Working Proficiency
+- 🇫🇷 **French**: Elementary Proficiency
 
 ## Contact
 - 💬 Best via LinkedIn DMs or the CV link above.
