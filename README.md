@@ -55,8 +55,7 @@ Currently, the weather is: _loading..._
 
 ## Education
 - 🎓 **B.Sc. Informatics** · Fontys Venlo University of Applied Sciences · 2024–2027.
-- 📚 **MBO-4 Human Resource Management** · Gilde Opleidingen · Sep 2023–Aug 2024 (Grade: 9).
-- ⚖️ **MBO-4 Juridisch Administratief Medewerker** · Gilde Opleidingen · Sep 2022–Aug 2024 (Grade: 8).
+
 
 ## Skills & Toolbox
 <div align="center">
