@@ -25,105 +25,82 @@ Currently, the weather is: _loading..._
 
 ## Now
 - 🤖 **AI Engineer** at Tilburg University: building and applying AI solutions.
-- 🧩 **IT Process Coordinator** at Beining and automating IT processes.
-- 🎓 Finishing my **B.Sc. Informatics** at Fontys Venlo.                                         - 🔒 Exploring local/open-source LLM ate.
-                                                                                                 ## Featured writing
-- 🧠 **The Effects of Guided LLM Use on Short-Term Code Learning**: a controlled experiment with 2nd-year Informatics students. Immediaster; delayed access (after a firstcorrect solution) led to better code quality, deeper understanding and more robust solutions.
-- 🔐 **Data Security, Sovereignty, an cloud-based AI, and how local stacks(OpenWebUI + LLaMA on Docker) protect privacy and compliance.
-- 📊 **The Political Landscape in Amee Stock Market**: how U.S. policy andthe 2024 election drive market volatility.
-- 🛰️ **ASML Business Visit**: insightSML's Chief Product Owner of IT UserSupport.
-- 🌍 **The Dutch Disease**: from Gronl for turning resource wealth intosustainable growth.
+- 🧩 **IT Process Coordinator** at Berden Mode & Wonen: streamlining and automating IT processes.
+- 🎓 Finishing my **B.Sc. Informatics** at Fontys Venlo.
+- 🔒 Exploring local/open-source LLM stacks that keep data private.
+
+## Featured writing
+- 🧠 **The Effects of Guided LLM Use on Short-Term Code Learning**: a controlled experiment with 2nd-year Informatics students. Immediate LLM access made them faster; delayed access (after a first correct solution) led to better code quality, deeper understanding and more robust solutions.
+- 🔐 **Data Security, Sovereignty, and Strategy**: the risks of cloud-based AI, and how local stacks (OpenWebUI + LLaMA on Docker) protect privacy and compliance.
+- 📊 **The Political Landscape in America and Its Effects on the Stock Market**: how U.S. policy and the 2024 election drive market volatility.
+- 🛰️ **ASML Business Visit**: insights from an interview with ASML's Chief Product Owner of IT User Support.
+- 🌍 **The Dutch Disease**: from Groningen gas to Norway's model for turning resource wealth into sustainable growth.
 
 ## Projects
 | Project | What | Stack |
 | --- | --- | --- |
-| 🐟 **VisualFish** | Social fishing s, follows) with LLM-based fishspecies recognition from photos. Built Scrumban-style in an Agile team. | Kotlin, Android Jetpack,
-TypeScript, LoopBack 4 |
-| 📡 **RTK GPS Bridge** | Replaced a Topcon subscription + hardware with a custom RTK GPS solution
-for Aelmans Adviesgroep. | ArduSimpledows, Android |
-| 🧪 **AI WebUI** | Fully local AI interface for open-source models (e.g. LLaMA 3.2). Containerized,
-offline, no data leaves the machine. n FastAPI, Vite, Docker |
-| 🛡️ **SecArena** | Hands-on cyber security lab: an orchestrator API that spins up isolated CTF-style
-Docker challenges on Proxmox. | Node.ox |
+| 🐟 **VisualFish** | Social fishing app (posts, likes, comments, follows) with LLM-based fish species recognition from photos. Built Scrumban-style in an Agile team. | Kotlin, Android Jetpack, TypeScript, LoopBack 4 |
+| 📡 **RTK GPS Bridge** | Replaced a Topcon subscription + hardware with a custom RTK GPS solution for Aelmans Adviesgroep. | ArduSimple, Python (TCP bridge), Windows, Android |
+| 🧪 **AI WebUI** | Fully local AI interface for open-source models (e.g. LLaMA 3.2). Containerized, offline, no data leaves the machine. | OpenWebUI, Ollama, Python FastAPI, Vite, Docker |
+| 🛡️ **SecArena** | Hands-on cyber security lab: an orchestrator API that spins up isolated CTF-style Docker challenges on Proxmox. | Node.js, Express, Docker, Proxmox |
 | 📓 **Cloud Notes** | Full-stack note-taking app with JWT auth. | HTML/CSS/JS, Node.js, PostgreSQL |
-| ☁️ **Smart Weather Dashboard** | Rean visualizations. | Python REST API,React, Chart.js, OpenWeatherMap |
-| ✈️ **Airline Information System** |or airport employees. | Java, Svelte,PostgreSQL |
-| 🎵 **Blatand Inc** | Music streamined playlists and secure auth. | PHP,SQL, PL/SQL, HTML/CSS |
-| 💰 **Budget Manager** | Income/expeoal-based savings planning. | Java,JavaFX |
-| 📱 **Mobile CRM App** | CRM mobile ship in Spain. | Java, Android Studio, XML |
+| ☁️ **Smart Weather Dashboard** | Real-time forecasts with clean visualizations. | Python REST API, React, Chart.js, OpenWeatherMap |
+| ✈️ **Airline Information System** | Flight booking platform for airport employees. | Java, Svelte, PostgreSQL |
+| 🎵 **Blatand Inc** | Music streaming platform with personalized playlists and secure auth. | PHP, SQL, PL/SQL, HTML/CSS |
+| 💰 **Budget Manager** | Income/expense/savings tracker with goal-based savings planning. | Java, JavaFX |
+| 📱 **Mobile CRM App** | CRM mobile app built during my internship in Spain. | Java, Android Studio, XML |
 
 ## Experience
-- 🤖 **AI Engineer** · Tilburg UniverTilburg (Hybrid)
-- 🧩 **IT Process Coordinator** · Berden Mode & Wonen · Aug 2026–Present · Heerlen (Hybrid,
-part-time)
-- 🚀 **Process Optimization (Freelance)** · GREENMEETSRED GmbH · Aug 2025–Aug 2026 · Bocholt, DE
-(Hybrid): optimizing business processow design and modern digitalsolutions.
-- 📡 **Embedded Systems (Freelance)**eb 2026–Apr 2026 · Remote: RTK GPSsolution covering hardware selection, a Python TCP bridge, Windows/Android integration and end-user
-docs.
-- 🟡 **Team Leader** · Jumbo Supermarkten · 2022–Jul 2025 · Venlo: led teams of 10–25 people per
-shift.
+- 🤖 **AI Engineer** · Tilburg University · Sep 2026–Present · Tilburg (Hybrid, full-time)
+- 🧩 **IT Process Coordinator** · Berden Mode & Wonen · Aug 2026–Present · Heerlen (Hybrid, part-time)
+- 🚀 **Process Optimization (Freelance)** · GREENMEETSRED GmbH · Aug 2025–Aug 2026 · Bocholt, DE (Hybrid): optimizing business processes with automation, workflow design and modern digital solutions.
+- 📡 **Embedded Systems (Freelance)** · Aelmans Adviesgroep · Feb 2026–Apr 2026 · Remote: RTK GPS solution covering hardware selection, a Python TCP bridge, Windows/Android integration and end-user docs.
+- 🟡 **Team Leader** · Jumbo Supermarkten · 2022–Jul 2025 · Venlo: led teams of 10–25 people per shift.
 - 🟡 **Process Worker** · Jumbo Supermarkten · Oct 2019–Sep 2022 · Venlo
-- ⚖️ **Collections Employee** · Hafkarwaarders · Sep 2022–Sep 2023 · Venlo: assisted bailiffs with debt collection and file management.
-- 📱 **HR Services (Internship)** · V: HR administration, plus developing a mobile CRM app.
+- ⚖️ **Collections Employee** · Hafkamp Groenewegen gerechtsdeurwaarders · Sep 2022–Sep 2023 · Venlo: assisted bailiffs with debt collection and file management.
+- 📱 **HR Services (Internship)** · Valencia, Spain · 2023–2024: HR administration, plus developing a mobile CRM app.
 
 ## Education & Certifications
-- 🎓 **B.Sc. Informatics** · Fontys V Sciences · 2024–2028
+- 🎓 **B.Sc. Informatics** · Fontys Venlo University of Applied Sciences · 2024–2028
 - 📜 **Propedeutic Phase Informatics** · Fontys Venlo · Jun 2025
-- 📜 **Agile Scrum Master** · Simplil
+- 📜 **Agile Scrum Master** · Simplilearn · Feb 2025
 
 ## Skills & Toolbox
 <div align="center">
-  <imgsrc="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-alt="Python" />
-  <img
-src="https://img.shields.io/badge/Javge&logo=openjdk&logoColor=white"alt="Java" />
-  <imgsrc="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"
-alt="Kotlin" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoCo
-lor=white" alt="TypeScript" />
-  <img
-src="https://img.shields.io/badge/Nodbadge&logo=nodedotjs&logoColor=white"alt="Node.js" />
-  <imgsrc="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
-alt="FastAPI" />
-  <img
-src="https://img.shields.io/badge/Olladge&logo=ollama&logoColor=white"alt="Ollama" />
-  <imgsrc="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
-alt="Android" />
-  <img
-src="https://img.shields.io/badge/Readge&logo=react&logoColor=61DAFB"alt="React" />
-  <imgsrc="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"
-alt="Svelte" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoCo
-lor=white" alt="PostgreSQL" />
-  <img
-src="https://img.shields.io/badge/Docadge&logo=docker&logoColor=white"alt="Docker" />
-  <imgsrc="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"
-alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Scrum-0EA5E9?style=for-the-badge&logo=scrumalliance&logoColo
-r=white" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Scrum-0EA5E9?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" />
 </div>
 
 ## Languages
 - 🇳🇱 **Dutch**: Native / Bilingual
 - 🇬🇧 **English**: Full Professional Proficiency
-- 🇩🇪 **German**: Professional Working
+- 🇩🇪 **German**: Professional Working Proficiency
 - 🇪🇸 **Spanish**: Limited Working Proficiency
-- 🇫🇷 **French**: Elementary Proficien
+- 🇫🇷 **French**: Elementary Proficiency
 
 ## Activity
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RickPoels/
-RickPoels/output/github-contribution-
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RickPoels
-/RickPoels/output/github-contribution
-    <img
-src="https://raw.githubusercontent.cout/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RickPoels/RickPoels/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RickPoels/RickPoels/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/RickPoels/RickPoels/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
   </picture>
 </div>
 
 ## Contact
-- 💬 Best via LinkedIn DMs or the CV
+- 💬 Best via LinkedIn DMs or the CV link above.
 
 <div align="center">
   <img src=".github/svg/Bottom.svg" alt="Footer wave">
